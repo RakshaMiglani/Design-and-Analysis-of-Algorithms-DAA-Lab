@@ -35,7 +35,7 @@ This repository contains implementations of various algorithms studied in the De
   4. Remove points that make a right turn.
   5. Return the final hull.
 - **Complexity:** O(n log n)
-- **Source Code:** [`graham_scan.py`](graham_scan.py)
+- **Source Code:** [`graham_scan.py`](Codes/graham_scan.py)
 - **Time Complexity Graph:** ![Graph](images/time_complexity.png)
 
 ### Huffman Encoding
@@ -48,7 +48,7 @@ This repository contains implementations of various algorithms studied in the De
   5. Encode the input text using these codes.
 - **Complexity:** O(n log n)
 - **Time Complexity Graph:** ![Graph](images/time_complexity.png)
-- **Source Code:** [`huffman_encoding.cpp`](huffman_encoding.cpp)
+- **Source Code:** [`huffman_encoding.cpp`](Codes/Huffman_encoding.cpp)
 - **Time Complexity Graph:** ![Graph](images/time_complexity.png)
 
 ### Insertion Sort
@@ -61,7 +61,7 @@ This repository contains implementations of various algorithms studied in the De
 - **Complexity:** O(n^2)
 - **Time Complexity Graph:** ![Graph](images/time_complexity.png) in worst case, O(n)
 - **Time Complexity Graph:** ![Graph](images/time_complexity.png) in best case.
-- **Source Code:** [`insertion_sort.c`](insertion_sort.c)
+- **Source Code:** [`insertion_sort.c`](Codes/insertion.c)
 - **Time Complexity Graph:** ![Graph](images/time_complexity.png)
 
 ### Longest Common Subsequence
@@ -72,7 +72,7 @@ This repository contains implementations of various algorithms studied in the De
   3. Trace back to retrieve the LCS.
 - **Complexity:** O(m × n)
 - **Time Complexity Graph:** ![Graph](images/time_complexity.png)
-- **Source Code:** [`lcs.c`](lcs.c)
+- **Source Code:** [`lcs.c`](Codes/lcs.c)
 - **Time Complexity Graph:** ![Graph](images/time_complexity.png)
 
 ### Matrix Chain Multiplication
@@ -83,7 +83,7 @@ This repository contains implementations of various algorithms studied in the De
   3. Store the optimal parenthesization.
 - **Complexity:** O(n^3)
 - **Time Complexity Graph:** ![Graph](images/time_complexity.png)
-- **Source Code:** [`matrix_chain.cpp`](matrix_chain.cpp)
+- **Source Code:** [`matrix_chain.cpp`](Codes/mcm.c)
 - **Time Complexity Graph:** ![Graph](images/time_complexity.png)
 
 ### Merge Sort
@@ -93,7 +93,7 @@ This repository contains implementations of various algorithms studied in the De
   2. Merge sorted halves using a helper function.
 - **Complexity:** O(n log n)
 - **Time Complexity Graph:** ![Graph](images/time_complexity.png)
-- **Source Code:** [`merge_sort.c`](merge_sort.c)
+- **Source Code:** [`merge_sort.c`](Codes/merge_sort.c)
 - **Time Complexity Graph:** ![Graph](images/time_complexity.png)
 
 ### N-Queens Problem
@@ -104,7 +104,7 @@ This repository contains implementations of various algorithms studied in the De
   3. Use backtracking to find valid arrangements.
 - **Complexity:** O(n!)
 - **Time Complexity Graph:** ![Graph](images/time_complexity.png)
-- **Source Code:** [`n_queens.py`](n_queens.py)
+- **Source Code:** [`n_queens.py`](Codes/n_queens.py)
 - **Time Complexity Graph:** ![Graph](images/time_complexity.png)
 
 ### Rabin-Karp Algorithm
@@ -116,7 +116,7 @@ This repository contains implementations of various algorithms studied in the De
 - **Complexity:** O(n + m)
 - **Time Complexity Graph:** ![Graph](images/time_complexity.png) on average, O(n × m)
 - **Time Complexity Graph:** ![Graph](images/time_complexity.png) in worst case.
-- **Source Code:** [`rabin_karp.c`](rabin_karp.c)
+- **Source Code:** [`rabin_karp.c`](Codes/rabin_karp.c)
 - **Time Complexity Graph:** ![Graph](images/time_complexity.png)
 
 ### Rod Cutting Problem
@@ -126,7 +126,7 @@ This repository contains implementations of various algorithms studied in the De
   2. Store results to avoid redundant calculations.
 - **Complexity:** O(n^2)
 - **Time Complexity Graph:** ![Graph](images/time_complexity.png)
-- **Source Code:** [`rod_cutting.c`](rod_cutting.c)
+- **Source Code:** [`rod_cutting.c`](Codes/Rod_cutting.c)
 - **Time Complexity Graph:** ![Graph](images/time_complexity.png)
 
 ### STL Containers & Iterators
@@ -136,7 +136,7 @@ This repository contains implementations of various algorithms studied in the De
   2. Use iterators to find max and min marks.
 - **Complexity:** O(n)
 - **Time Complexity Graph:** ![Graph](images/time_complexity.png)
-- **Source Code:** [`stl_containers.cpp`](stl_containers.cpp)
+- **Source Code:** [`stl_containers.cpp`](Codes/stl.cpp)
 - **Time Complexity Graph:** ![Graph](images/time_complexity.png)
 
 ---
