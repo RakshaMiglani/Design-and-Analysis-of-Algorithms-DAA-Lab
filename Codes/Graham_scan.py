@@ -34,4 +34,5 @@ plt.xlabel("X-coordinate")
 plt.ylabel("Y-coordinate")
 plt.legend()
 plt.grid()
-plt.show()
+plt.show()
+
